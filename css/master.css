@@ -1,0 +1,25 @@
+div {
+  border-style: solid;
+  border-width: 1px;
+  margin: 5px;
+}
+
+#content {
+  background-color: lightblue;
+}
+
+#headerBox {
+  background-color: purple;
+}
+
+#linksBox {
+  background-color: orange;
+}
+
+#paraBoxes{
+  background-color: lightblue;
+}
+
+.paraBox {
+  background-color: lightgreen;
+}
